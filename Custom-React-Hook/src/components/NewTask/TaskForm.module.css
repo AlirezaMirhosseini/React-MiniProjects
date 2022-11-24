@@ -16,3 +16,13 @@
   outline: none;
   border-color: #7a0144;
 }
+
+.button {
+  cursor: pointer;
+  width: 7rem;
+  color: white;
+  font-weight: bold;
+  background-color: #d10a92;
+  border: none;
+  border-radius: 25px;
+}
